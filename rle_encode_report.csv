@@ -1,6 +1,0 @@
-pixel_count,serial_duration,cuda_duration,omp_duration,thread_duration
-1,10,8,6,4
-2,20,16,12,10
-4,40,32,24,20
-8,60,48,32,25
-16,120,96,64,50
