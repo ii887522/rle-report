@@ -1,0 +1,4 @@
+parallel_technique,speedup
+CUDA,4.2199
+Thread,4.8717
+OpenMP,0.6496
